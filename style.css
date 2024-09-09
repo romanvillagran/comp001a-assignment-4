@@ -13,6 +13,11 @@ th {
     border: 1px solid: white;
 }
 
+td {
+    padding:12px 15px;
+    border: 1px solid:white
+}
+
 table, th, td {
     border: 1px solid grey;
 }
